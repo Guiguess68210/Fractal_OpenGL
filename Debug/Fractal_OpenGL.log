@@ -1,0 +1,1576 @@
+﻿     0>Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentative d'importation de C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props en utilisant le chemin d'extensions C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild
+       Réassignation de propriété : $(MSBuildProjectExtensionsPath)="E:\OpenGL\Fractal_OpenGL\obj\" (valeur précédente : "obj\") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Microsoft.Common.props (57,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentative d'importation de C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* en utilisant le chemin d'extensions C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       La propriété "Configuration" est une propriété globale et elle ne peut pas être modifiée.
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       La propriété "Configuration" est une propriété globale et elle ne peut pas être modifiée.
+       Réassignation de propriété : $(PlatformToolset)="v100" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Platforms\Win32\Platform.Default.props (29,5)
+       La propriété "LangID" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionDir" est une propriété globale et elle ne peut pas être modifiée.
+       Réassignation de propriété : $(UseDebugLibraries)="true" (valeur précédente : "false") à E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj (31,5)
+       Réassignation de propriété : $(PlatformToolset)="v142" (valeur précédente : "v100") à E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj (32,5)
+       Réassignation de propriété : $(CharacterSet)="Unicode" (valeur précédente : "NotSet") à E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj (33,5)
+       Réassignation de propriété : $(WindowsSDK_ExecutablePath_x86)="C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools" (valeur précédente : "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props (199,5)
+       Réassignation de propriété : $(WindowsSDK_ExecutablePath_x64)="C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools\x64" (valeur précédente : "C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x64;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.props (200,5)
+       Réassignation de propriété : $(TargetExt)=".exe" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (28,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (94,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (95,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (96,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (97,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (98,5)
+       Réassignation de propriété : $(VC_ExecutablePath_Loc)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;;;;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\arm\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x64\1036;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86\1036;;;;;;;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (99,5)
+       Réassignation de propriété : $(RemoteDebuggerDeployDebugCppRuntime)="true" (valeur précédente : "false") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (149,5)
+       Réassignation de propriété : $(MultiProcMaxCount)="0" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Common.props (207,5)
+       Réassignation de propriété : $(EspXtensions)="EnumIndex.dll;CppCoreCheck.dll;" (valeur précédente : "CppCoreCheck.dll;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (21,5)
+       Réassignation de propriété : $(EspXtensions)="HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valeur précédente : "EnumIndex.dll;CppCoreCheck.dll;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (24,5)
+       Réassignation de propriété : $(EspXtensions)="VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valeur précédente : "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (27,5)
+       Réassignation de propriété : $(EspXtensions)="ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valeur précédente : "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CodeAnalysis.Extensions.props (32,5)
+       Réassignation de propriété : $(MsvcAnalysisToolsPath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX64\x86") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Analysis.props (28,5)
+       Réassignation de propriété : $(_PropertySheetDisplayName)="Unicode Support" (valeur précédente : "Core Windows Libraries") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.unicodesupport.props (15,5)
+       Réassignation de propriété : $(_PropertySheetDisplayName)="Application" (valeur précédente : "Unicode Support") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Application.props (15,5)
+       Réassignation de propriété : $(IncludePath)="E:\OpenGL\Fractal_OpenGL\Librairies\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") à E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj (75,5)
+       Réassignation de propriété : $(LibraryPath)="E:\OpenGL\Fractal_OpenGL\Librairies\lib;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;") à E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj (76,5)
+       La propriété "SolutionExt" est une propriété globale et elle ne peut pas être modifiée.
+       Réassignation de propriété : $(ExtensionsToDeleteOnClean)="*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.exe.manifest;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.tlb;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.pdb;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.exe;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.bsc;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.ilk;E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.exe.intermediate.manifest;" (valeur précédente : "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (38,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentative d'importation de C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportBefore\* en utilisant le chemin d'extensions C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       La propriété "Configuration" est une propriété globale et elle ne peut pas être modifiée.
+       Réassignation de propriété : $(_DocumentationFileProduced)="false" (valeur précédente : "true") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (186,5)
+       La propriété "DevEnvDir" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionName" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionFileName" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionPath" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionDir" est une propriété globale et elle ne peut pas être modifiée.
+       La propriété "SolutionExt" est une propriété globale et elle ne peut pas être modifiée.
+       Réassignation de propriété : $(AutoUnifyAssemblyReferences)="false" (valeur précédente : "true") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (369,5)
+       Réassignation de propriété : $(DelaySign)="" (valeur précédente : "false") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (558,5)
+       Réassignation de propriété : $(_SGenGenerateSerializationAssembliesConfig)="Auto" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3612,5)
+       Réassignation de propriété : $(_SGenGenerateSerializationAssembliesConfig)="Off" (valeur précédente : "Auto") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets (3613,5)
+       Réassignation de propriété : $(_CodeAnalysisTreatWarningsAsErrors)="false" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (125,5)
+       Réassignation de propriété : $(CAExcludePath)="C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (valeur précédente : "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (235,5)
+       Réassignation de propriété : $(CAExcludePath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (valeur précédente : "C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (236,5)
+       Réassignation de propriété : $(CAExcludePath)="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;" (valeur précédente : "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (237,5)
+       Réassignation de propriété : $(PrepareForBuildDependsOn)=";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (valeur précédente : ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (240,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Réassignation de propriété : $(ResolveReferencesDependsOn)="
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           " (valeur précédente : "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets (75,5)
+       Réassignation de propriété : $(PrepareResourceNamesDependsOn)="
+                           AssignWinFXEmbeddedResource;
+                           
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           
+             " (valeur précédente : "
+             AssignTargetPaths;
+             SplitResourcesByCulture;
+             CreateManifestResourceNames;
+             CreateCustomManifestResourceNames
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (97,7)
+       Réassignation de propriété : $(PrepareResourcesDependsOn)="
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             " (valeur précédente : "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (108,7)
+       Réassignation de propriété : $(CompileDependsOn)="
+               
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ;
+               _AfterCompileWinFXInternal
+           " (valeur précédente : "
+             ResolveReferences;
+             ResolveKeySource;
+             SetWin32ManifestProperties;
+             FindReferenceAssembliesForReferences;
+             _GenerateCompileInputs;
+             BeforeCompile;
+             _TimeStampBeforeCompile;
+             _GenerateCompileDependencyCache;
+             CoreCompile;
+             _TimeStampAfterCompile;
+             AfterCompile;
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (184,5)
+       Réassignation de propriété : $(PublishBuildDependsOn)="
+                   BuildOnlySettings;
+                   PrepareForBuild;
+                   ResolveReferences;
+                   PrepareResources;
+                   ResolveKeySource;
+                   PrepareResourcesForSatelliteAssemblies;
+                   GenerateSerializationAssemblies;
+                   CreateSatelliteAssemblies;
+               " (valeur précédente : "
+             BuildOnlySettings;
+             PrepareForBuild;
+             ResolveReferences;
+             PrepareResources;
+             ResolveKeySource;
+             GenerateSerializationAssemblies;
+             CreateSatelliteAssemblies;
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets (813,9)
+       Réassignation de propriété : $(BuildDependsOn)="
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           " (valeur précédente : "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (35,5)
+       Réassignation de propriété : $(CleanDependsOn)="
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           " (valeur précédente : "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Data.Entity.targets (42,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Réassignation de propriété : $(PrepareResourcesDependsOn)="
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (valeur précédente : "
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+             ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       Réassignation de propriété : $(CoreCompileDependsOn)="
+               DesignTimeXamlMarkupCompilation;
+               
+                 DesignTimeMarkupCompilation;
+                 
+             
+           " (valeur précédente : "
+                 DesignTimeMarkupCompilation;
+                 
+             ") à C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (76,5)
+       Réassignation de propriété : $(ResolveReferencesDependsOn)="
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (valeur précédente : "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentative d'importation de C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* en utilisant le chemin d'extensions C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentative d'importation de C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Sdks\Microsoft.Docker.Sdk\build\Microsoft.Docker.targets en utilisant le chemin d'extensions C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild
+       Réassignation de propriété : $(ProjectLockFile)="obj\project.assets.json" (valeur précédente : "E:\OpenGL\Fractal_OpenGL\obj\project.assets.json") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (74,5)
+       Réassignation de propriété : $(ResolveAssemblyReferencesDependsOn)="
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (valeur précédente : "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (185,5)
+       Réassignation de propriété : $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           " (valeur précédente : "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+                       MarkupCompilePass1;
+                       AfterMarkupCompilePass1;
+                       MarkupCompilePass2ForMainAssembly;
+                       FileClassification;
+                       MainResourcesGeneration;
+                       
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           
+              
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (186,5)
+       Réassignation de propriété : $(_HandlePackageFileConflictsAfter)="ResolveNuGetPackageAssets;ResolveNuGetPackageAssetsNonAOT" (valeur précédente : "ResolveNuGetPackageAssets") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\NuGet\16.0\Microsoft.NuGet.targets (267,5)
+       Les chemins de recherche utilisés pour $(MSBuildExtensionsPath) sont C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Réassignation de propriété : $(DebugType)="" (valeur précédente : "none") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (37,5)
+       Réassignation de propriété : $(BuildDependsOn)="
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (valeur précédente : "
+             EntityDeploy;
+             
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (119,5)
+       Réassignation de propriété : $(RebuildDependsOn)="
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (valeur précédente : "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (127,5)
+       Réassignation de propriété : $(CleanDependsOn)="
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           " (valeur précédente : "
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets (132,5)
+       Réassignation de propriété : $(BeforeBuildGenerateSourcesTargets)="
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           " (valeur précédente : "
+             ;
+             BeforeBuildGenerateSources;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (61,5)
+       Réassignation de propriété : $(AfterBuildGenerateSourcesTargets)="
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           " (valeur précédente : "
+             ;
+             AfterBuildGenerateSources;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (72,5)
+       Réassignation de propriété : $(BuildGenerateSourcesAction)="_BuildGenerateSourcesAction" (valeur précédente : "Build") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (142,5)
+       Réassignation de propriété : $(BuildCompileAction)="_BuildCompileAction" (valeur précédente : "Build") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (143,5)
+       Réassignation de propriété : $(BuildLinkAction)="_BuildLinkAction" (valeur précédente : "Build") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (144,5)
+       Réassignation de propriété : $(GetReferenceAssemblyPathsDependsOn)="_PrepareForReferenceResolution;
+               ;
+               GetWinFXPath
+           " (valeur précédente : "
+               ;
+               GetWinFXPath
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (149,5)
+       Réassignation de propriété : $(DetermineProjectTypeTargets)="_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           " (valeur précédente : "
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (251,5)
+       Réassignation de propriété : $(ResolveReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           " (valeur précédente : "
+             
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ImplicitlyExpandDesignTimeFacades
+           ;
+             ResolveTestReferences
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (311,5)
+       Réassignation de propriété : $(ResolveAssemblyReferencesDependsOn)="_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (valeur précédente : "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (312,5)
+       Réassignation de propriété : $(ResolveSDKReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           " (valeur précédente : "
+             GetInstalledSDKLocations
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (313,5)
+       Réassignation de propriété : $(ComputeCompileInputsTargets)="
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           " (valeur précédente : "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (612,5)
+       Réassignation de propriété : $(ComputeLinkInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           " (valeur précédente : "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (925,5)
+       Réassignation de propriété : $(GetTargetPathDependsOn)="_PrepareForReferenceResolution;GetResolvedWinMD;" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1095,5)
+       Réassignation de propriété : $(ComputeCompileInputsTargets)="
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           " (valeur précédente : "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1121,5)
+       Réassignation de propriété : $(ComputeLinkInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valeur précédente : "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1173,5)
+       Réassignation de propriété : $(ComputeLibInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valeur précédente : "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1180,5)
+       Réassignation de propriété : $(ComputeImpLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valeur précédente : "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1187,5)
+       Réassignation de propriété : $(ComputeLinkInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           " (valeur précédente : "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1247,5)
+       Réassignation de propriété : $(ComputeLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           " (valeur précédente : "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1262,5)
+       Réassignation de propriété : $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           " (valeur précédente : "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1277,5)
+       Réassignation de propriété : $(ComputeLinkInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           " (valeur précédente : "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1308,5)
+       Réassignation de propriété : $(ComputeLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           " (valeur précédente : "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1326,5)
+       Réassignation de propriété : $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           " (valeur précédente : "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1344,5)
+       Réassignation de propriété : $(ComputeLinkInputsTargets)="
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           " (valeur précédente : "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1488,5)
+       Réassignation de propriété : $(ComputeLibInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           " (valeur précédente : "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1526,5)
+       Réassignation de propriété : $(ComputeLibInputsTargets)="
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           " (valeur précédente : "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1583,5)
+       Réassignation de propriété : $(GetProjectInfoForReferenceDependsOn)="
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           " (valeur précédente : "
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (1770,5)
+       Réassignation de propriété : $(DocumentationProjectOutputGroupDependsOn)="ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles" (valeur précédente : "") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2157,5)
+       Réassignation de propriété : $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc" (valeur précédente : "PrepareForBuild;AssignTargetPaths") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets (2223,5)
+       Réassignation de propriété : $(ComputeCompileInputsTargets)="
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             FixupCLCompileOptions;
+           " (valeur précédente : "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (302,5)
+       Réassignation de propriété : $(BuildingProject)="true" (valeur précédente : "false") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (1989,5)
+       Réassignation de propriété : $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;" (valeur précédente : "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets (2516,5)
+       Réassignation de propriété : $(PrepareForBuildDependsOn)="_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (valeur précédente : ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets (16,5)
+       Réassignation de propriété : $(CleanDependsOn)="
+             
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ;
+             CppClean
+           " (valeur précédente : "
+             _PrepareForClean;
+             
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+             EntityClean;
+           ;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (22,5)
+       Réassignation de propriété : $(CppCleanDependsOn)="
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean" (valeur précédente : "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets (92,5)
+       Réassignation de propriété : $(BuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           " (valeur précédente : "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             FinalizeBuildStatus;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (540,5)
+       Réassignation de propriété : $(RebuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (valeur précédente : "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ") à C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets (541,5)
+       Remplacement de la cible "GetFrameworkPaths" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GetFrameworkPaths" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets".
+       Remplacement de la cible "SatelliteDllsProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "SatelliteDllsProjectOutputGroup" du projet "C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\Microsoft.WinFx.targets".
+       Remplacement de la cible "GenerateTargetFrameworkMonikerAttribute" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GenerateTargetFrameworkMonikerAttribute" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Remplacement de la cible "Build" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "Build" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Remplacement de la cible "Rebuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "Rebuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Remplacement de la cible "AfterBuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "AfterBuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets".
+       Remplacement de la cible "PrepareForBuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "PrepareForBuild" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "GetTargetPath" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GetTargetPath" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "ComputeIntermediateSatelliteAssemblies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "ComputeIntermediateSatelliteAssemblies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "ClCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "ClCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "ResourceCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "ResourceCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "Lib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Lib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "Link" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Link" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "AllProjectOutputGroups" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "AllProjectOutputGroups" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "BuiltProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "BuiltProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "DebugSymbolsProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "DebugSymbolsProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "DocumentationProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "DocumentationProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "SourceFilesProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "SourceFilesProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "ContentFilesProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "ContentFilesProjectOutputGroup" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "AllProjectOutputGroupsDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "AllProjectOutputGroupsDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "BuiltProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "BuiltProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "DebugSymbolsProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "DebugSymbolsProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "DocumentationProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "DocumentationProjectOutputGroupDependencies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets".
+       Remplacement de la cible "PreBuildEvent" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "PreBuildEvent" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "PostBuildEvent" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "PostBuildEvent" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "ClCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "ClCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "Link" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Link" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "Lib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Lib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "ImpLib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "ImpLib" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "Midl" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Midl" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "ResourceCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "ResourceCompile" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "BeforeResGen" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "BeforeResGen" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "ResGen" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "ResGen" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "GenerateSatelliteAssemblies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GenerateSatelliteAssemblies" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "Manifest" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "Manifest" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "XdcMake" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "XdcMake" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "BscMake" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" par la cible "BscMake" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "ComputeMetaGenInputs" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MetaGen.targets" par la cible "ComputeMetaGenInputs" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "GetNativeManifest" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GetNativeManifest" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets".
+       Remplacement de la cible "GetTargetPathWithTargetPlatformMoniker" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" par la cible "GetTargetPathWithTargetPlatformMoniker" du projet "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets".
+La génération a démarré 14/11/2021 17:16:18.
+La verbosité de la journalisation a la valeur Detailed.     1>Projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" sur le nœud 2 (Rebuild cible(s)).
+     1>Génération à l'aide des outils version "Current".
+       Cible "EnableIntermediateOutputPathMismatchWarning" ignorée en raison d'une fausse condition ; ('$(RestoreProjectStyle)' == 'PackageReference') a été évaluée comme ('' == 'PackageReference').
+     1>Cible "_CheckForInvalidConfigurationAndPlatform" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "SetTelemetryEnvironmentVariables" en dépend) :
+       Tâche "Error" ignorée en raison d'une fausse condition ; ( '$(_InvalidConfigurationError)' == 'true' ) a été évaluée comme ( '' == 'true' ).
+       Tâche "Warning" ignorée en raison d'une fausse condition ; ( '$(_InvalidConfigurationWarning)' == 'true' ) a été évaluée comme ( '' == 'true' ).
+       Utilisation de la tâche "Message" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "Message"
+         Configuration=Debug
+       Exécution de la tâche "Message" terminée.
+       Tâche "Message"
+         Platform=Win32
+       Exécution de la tâche "Message" terminée.
+       Tâche "Error" ignorée en raison d'une fausse condition ; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) a été évaluée comme ('E:\OpenGL\Fractal_OpenGL\Debug\' != '' and !HasTrailingSlash('E:\OpenGL\Fractal_OpenGL\Debug\')).
+       Tâche "Error" ignorée en raison d'une fausse condition ; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) a été évaluée comme ('Debug\' != '' and !HasTrailingSlash('Debug\')).
+       Tâche "Error" ignorée en raison d'une fausse condition ; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) a été évaluée comme ('obj\' != '' and !HasTrailingSlash('obj\')).
+       Tâche "Error" ignorée en raison d'une fausse condition ; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) a été évaluée comme ( 'E:\OpenGL\Fractal_OpenGL\obj\' != '' And 'E:\OpenGL\Fractal_OpenGL\obj\' != 'E:\OpenGL\Fractal_OpenGL\obj\' ).
+       Tâche "Warning" ignorée en raison d'une fausse condition ; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) a été évaluée comme ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'E:\OpenGL\Fractal_OpenGL\obj\' ).
+     1>Génération de la cible "_CheckForInvalidConfigurationAndPlatform" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "_CheckForInvalidConfigurationAndPlatform" ignorée. Elle a été générée.
+     1>Cible "SetTelemetryEnvironmentVariables" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.DesignTime.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Rebuild" en dépend) :
+       Utilisation de la tâche "SetEnv" à partir de l'assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Tâche "SetEnv"
+         VSTEL_SolutionSessionID={BCCF3524-63CF-4EEE-83CB-0B7154B72820}
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         VSTEL_CurrentSolutionBuildID=524038432
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         VSTEL_ProjectID={f640f465-0823-4b99-9b9f-c5d274c1baaa}
+       Exécution de la tâche "SetEnv" terminée.
+     1>Génération de la cible "SetTelemetryEnvironmentVariables" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_PrepareForRebuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Rebuild" en dépend) :
+     1>Génération de la cible "_PrepareForRebuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "BeforeRebuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Rebuild" en dépend) :
+     1>Génération de la cible "BeforeRebuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_PrepareForClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+       Tâche "Delete" ignorée en raison d'une fausse condition ; (Exists($(LastBuildState))) a été évaluée comme (Exists(Debug\Fractal_OpenGL.tlog\Fractal_OpenGL.lastbuildstate)).
+     1>Génération de la cible "_PrepareForClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "BeforeClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+     1>Génération de la cible "BeforeClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "UnmanagedUnregistration" ignorée en raison d'une fausse condition ; ((('$(_AssemblyTimestampBeforeCompile)' != '$(_AssemblyTimestampAfterCompile)' or '$(RegisterForComInterop)' != 'true' or '$(OutputType)' != 'library') or
+                           ('$(_AssemblyTimestampBeforeCompile)' == '')) and
+                          Exists('@(_UnmanagedRegistrationCache)')) a été évaluée comme ((('' != '' or '' != 'true' or 'exe' != 'library') or
+                           ('' == '')) and
+                          Exists('obj\Fractal_OpenGL.vcxproj.UnmanagedRegistration.cache')).
+     1>Cible "CoreClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+       Utilisation de la tâche "Delete" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "Delete"
+         Le fichier "Debug\\TempCA\Fractal_OpenGL.pdb" n'existe pas. Opération ignorée.
+         Le fichier "Debug\\TempCA\Fractal_OpenGL.exe" n'existe pas. Opération ignorée.
+       Exécution de la tâche "Delete" terminée.
+       Utilisation de la tâche "ReadLinesFromFile" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "ReadLinesFromFile"
+       Exécution de la tâche "ReadLinesFromFile" terminée.
+       Utilisation de la tâche "FindUnderPath" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "FindUnderPath"
+         Le chemin de comparaison est "E:\OpenGL\Fractal_OpenGL\Debug\".
+       Exécution de la tâche "FindUnderPath" terminée.
+       Tâche "FindUnderPath"
+         Le chemin de comparaison est "Debug\".
+       Exécution de la tâche "FindUnderPath" terminée.
+       Tâche "Delete"
+       Exécution de la tâche "Delete" terminée.
+       Utilisation de la tâche "RemoveDuplicates" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "RemoveDuplicates"
+       Exécution de la tâche "RemoveDuplicates" terminée.
+       Utilisation de la tâche "MakeDir" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+       Utilisation de la tâche "WriteLinesToFile" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "WriteLinesToFile"
+       Exécution de la tâche "WriteLinesToFile" terminée.
+     1>Génération de la cible "CoreClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "_CleanMdbFiles" ignorée en raison d'une fausse condition ; (Exists('$(TargetPath).mdb')) a été évaluée comme (Exists('E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.exe.mdb')).
+     1>Cible "AssignProjectConfiguration" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareProjectReferences" en dépend) :
+       Utilisation de la tâche "AssignProjectConfiguration" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "AssignProjectConfiguration"
+       Exécution de la tâche "AssignProjectConfiguration" terminée.
+     1>Génération de la cible "AssignProjectConfiguration" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_SplitProjectReferencesByFileExistence" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareProjectReferences" en dépend) :
+       Tâche "ResolveNonMSBuildProjectOutput" ignorée en raison d'une fausse condition ; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') a été évaluée comme ('true'=='true' and ''!='').
+     1>Génération de la cible "_SplitProjectReferencesByFileExistence" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_AddOutputPathToGlobalPropertiesToRemove" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_GetProjectReferenceTargetFrameworkProperties" en dépend) :
+     1>Génération de la cible "_AddOutputPathToGlobalPropertiesToRemove" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_GetProjectReferenceTargetFrameworkProperties" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareProjectReferences" en dépend) :
+       Utilisation de la tâche "MSBuild" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "MSBuild"
+       Exécution de la tâche "MSBuild" terminée.
+       Tâche "GetReferenceNearestTargetFrameworkTask" ignorée en raison d'une fausse condition ; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true') a été évaluée comme ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' == 'true').
+       Tâche "GetReferenceNearestTargetFrameworkTask" ignorée en raison d'une fausse condition ; ('@(_ProjectReferenceTargetFrameworkPossibilities->Count())' != '0' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true') a été évaluée comme ('0' != '0' and '.NETFramework,Version=v4.0' != ''
+                                                               And 'true' != 'true').
+     1>Génération de la cible "_GetProjectReferenceTargetFrameworkProperties" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "PrepareProjectReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CleanReferencedProjects" en dépend) :
+     1>Génération de la cible "PrepareProjectReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "CleanReferencedProjects" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') a été évaluée comme ('true' != 'true' and 'true' == 'true' and '' != '').
+     1>Génération de la cible "CleanReferencedProjects" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "CleanPublishFolder" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+       Tâche "RemoveDir" ignorée en raison d'une fausse condition ; ('$(PublishDir)'=='$(OutputPath)app.publish\' and Exists('$(PublishDir)')) a été évaluée comme ('E:\OpenGL\Fractal_OpenGL\Debug\app.publish\'=='E:\OpenGL\Fractal_OpenGL\Debug\app.publish\' and Exists('E:\OpenGL\Fractal_OpenGL\Debug\app.publish\')).
+     1>Génération de la cible "CleanPublishFolder" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AfterClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+     1>Génération de la cible "AfterClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "EntityClean" ignorée en raison d'une fausse condition ; ('@(EntityDeploy)' != '') a été évaluée comme ('' != '').
+     1>Cible "BeforeCppClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CppClean" en dépend) :
+     1>Génération de la cible "BeforeCppClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "CoreCppClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CppClean" en dépend) :
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+       Utilisation de la tâche "CppClean" à partir de l'assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Tâche "CppClean"
+       Exécution de la tâche "CppClean" terminée.
+       Tâche "WriteLinesToFile"
+       Exécution de la tâche "WriteLinesToFile" terminée.
+     1>Génération de la cible "CoreCppClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AfterCppClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CppClean" en dépend) :
+     1>Génération de la cible "AfterCppClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "PGInstrumentedClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CppClean" en dépend) :
+       Tâche "Delete"
+       Exécution de la tâche "Delete" terminée.
+     1>Génération de la cible "PGInstrumentedClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "CppClean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Clean" en dépend) :
+     1>Génération de la cible "CppClean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "Clean" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Rebuild" en dépend) :
+     1>Génération de la cible "Clean" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "SetTelemetryEnvironmentVariables" ignorée. Elle a été générée.
+     1>Cible "_PrepareForBuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Build" en dépend) :
+       Tâche "CreateItem" ignorée en raison d'une fausse condition ; ('%(CustomBuild.IncludeFileToTool)'!='') a été évaluée comme (''!='').
+     1>Génération de la cible "_PrepareForBuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_PrepareForReferenceResolution" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveReferences" en dépend) :
+       Tâche "Message" ignorée en raison d'une fausse condition ; ('$(_REFERENCE_DEBUG)'=='true') a été évaluée comme (''=='true').
+     1>Génération de la cible "_PrepareForReferenceResolution" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "ComputeCrtSDKReference" ignorée en raison d'une fausse condition ; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') a été évaluée comme ('glad_gl.c;Main.cpp'!='' and 'false'=='true' and '' != 'false').
+     1>Cible "BeforeResolveReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveReferences" en dépend) :
+     1>Génération de la cible "BeforeResolveReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "AssignProjectConfiguration" ignorée. Elle a été générée.
+       Cible "PrepareProjectReferences" ignorée. Elle a été générée.
+       Cible "_RemoveNameMetadataFromProjectReferenceItems" ignorée en raison d'une fausse condition ; ('@(ProjectReference)'!='') a été évaluée comme (''!='').
+     1>Cible "ResolveProjectReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveReferences" en dépend) :
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') a été évaluée comme ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '16.0' != '10.0' and '' != '').
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') a été évaluée comme ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') a été évaluée comme ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+       Tâche "Warning" ignorée en raison d'une fausse condition ; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') a été évaluée comme ('' != '' and '' != '').
+     1>Génération de la cible "ResolveProjectReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "FindInvalidProjectReferences" ignorée en raison d'une fausse condition ; ('$(FindInvalidProjectReferences)' == 'true') a été évaluée comme ('' == 'true').
+       Cible "ResolveNativeReferences" ignorée en raison d'une fausse condition ; ('@(NativeReference)'!='') a été évaluée comme (''!='').
+       Cible "_PrepareForReferenceResolution" ignorée. Elle a été générée.
+       Cible "ResolveProjectReferences" ignorée. Elle a été générée.
+       Cible "FindInvalidProjectReferences" ignorée en raison d'une fausse condition ; ('$(FindInvalidProjectReferences)' == 'true') a été évaluée comme ('' == 'true').
+     1>Cible "GetFrameworkPaths" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.NETFramework.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveAssemblyReferences" en dépend) :
+     1>Génération de la cible "GetFrameworkPaths" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "_PrepareForReferenceResolution" ignorée. Elle a été générée.
+       Cible "GetWinFXPath" ignorée en raison d'une fausse condition ; (('@(Page)' != '' or '@(ApplicationDefinition)' != '' or '@(Resource)' != '') and ('$(GetWinFXNativePath)' != '' or '$(GetWinFXWoWPath)' != '' )) a été évaluée comme (('' != '' or '' != '' or '' != '') and ('' != '' or '' != '' )).
+       Cible "GetFrameworkPaths" ignorée. Elle a été générée.
+     1>Cible "GetReferenceAssemblyPaths" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveAssemblyReferences" en dépend) :
+       Tâche "GetReferenceAssemblyPaths" ignorée en raison d'une fausse condition ; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) a été évaluée comme ('' != '' and ('C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '' or 'C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0' == '')).
+     1>Génération de la cible "GetReferenceAssemblyPaths" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AddExternalIncludDirectoriesToPaths" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "SetBuildDefaultEnvironmentVariables" en dépend) :
+     1>Génération de la cible "AddExternalIncludDirectoriesToPaths" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "SetBuildDefaultEnvironmentVariables" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.Current.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareForBuild" en dépend) :
+       Tâche "SetEnv"
+         PATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86;C:\Program Files (x86)\Windows Kits\10\bin\10.0.19041.0\x86;;C:\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.8 Tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\tools;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin;C:\WINDOWS\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\OpenJDK\jdk-8.0.292.10-hotspot\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\bin;C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.4\libnvvp;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files (x86)\WinMerge;C:\wamp64\bin\php;C:\Program Files\Git\cmd;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files\Microsoft Service Fabric\bin\Fabric\Fabric.Code;C:\Program Files\Microsoft SDKs\Service Fabric\Tools\ServiceFabricLocalClusterManager;C:\Program Files\Java\jre1.8.0_301\bin;C:\sonarqube-8.5.0.37579;C:\Users\guill\.dotnet\tools\.store\dotnet-sonarscanner\4.8.0\dotnet-sonarscanner\4.8.0\tools\netcoreapp3.0\any;C:\Users\guill\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\NVIDIA Corporation\Nsight Compute 2021.2.2\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\nodejs\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\dotnet\;C:\Users\guill\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\guill\AppData\Local\Programs\Python\Python39\;C:\Users\guill\AppData\Local\Microsoft\WindowsApps;C:\Users\guill\AppData\Local\GitHubDesktop\bin;C:\Users\guill\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\JetBrains\IntelliJ IDEA 2019.3.2\bin;C:\wamp64\bin\php\php7.3.12;C:\Users\guill\.dotnet\tools;C:\sonarqube-8.5.0.37579\bin\;C:\Program Files\Java\jdk1.8.0_241\bin;C:\Users\guill\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\guill\AppData\Local\Programs\Python\Python39;C:\Users\guill\AppData\Local\Programs\Python\Python39\Scripts;C:\Users\guill\AppData\Roaming\npm;C:\Users\guill\AppData\Local\Microsoft\WindowsApps;C:\Users\guill\.dotnet\tools;C:\Gradle\gradle-6.9.1;C:\Program Files (x86)\Android\android-sdk\tools;C:\Program Files (x86)\Android\android-sdk\platform-tools;;
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         LIB=E:\OpenGL\Fractal_OpenGL\Librairies\lib;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\lib\x86;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\ucrt\x86;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.19041.0\um\x86;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x86;
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         LIBPATH=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x86;
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         INCLUDE=E:\OpenGL\Fractal_OpenGL\Librairies\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv"
+         EXTERNAL_INCLUDE=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Exécution de la tâche "SetEnv" terminée.
+     1>Génération de la cible "SetBuildDefaultEnvironmentVariables" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "SetUserMacroEnvironmentVariables" ignorée en raison d'une fausse condition ; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') a été évaluée comme ('' != '' and '' != 'true').
+       Cible "_PrepareForReferenceResolution" ignorée. Elle a été générée.
+     1>Cible "GetResolvedWinMD" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareForBuild" en dépend) :
+     1>Génération de la cible "GetResolvedWinMD" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_CheckWindowsSDKInstalled" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Cpp.WindowsSDK.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareForBuild" en dépend) :
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(WindowsSDKInstalled)' != 'true') a été évaluée comme ('true' != 'true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true) a été évaluée comme ('false' != 'true' and 'true' != true).
+     1>Génération de la cible "_CheckWindowsSDKInstalled" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "GetFrameworkPaths" ignorée. Elle a été générée.
+       Cible "GetReferenceAssemblyPaths" ignorée. Elle a été générée.
+       Cible "AssignLinkMetadata" ignorée en raison d'une fausse condition ; ( '$(SynthesizeLinkMetadata)' == 'true' ) a été évaluée comme ( '' == 'true' ).
+     1>Cible "SetCABuildNativeEnvironmentVariables" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VisualStudio\v16.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "PrepareForBuild" en dépend) :
+       Tâche "SetEnv"
+         CAExcludePath=C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\include;C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\cppwinrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\Include\um;
+       Exécution de la tâche "SetEnv" terminée.
+       Tâche "SetEnv" ignorée en raison d'une fausse condition ; ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') a été évaluée comme ('false'=='true' and 'true'=='true').
+     1>Génération de la cible "SetCABuildNativeEnvironmentVariables" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "PrepareForBuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveAssemblyReferences" en dépend) :
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') a été évaluée comme ('' != 'true' and 'true' != 'true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') a été évaluée comme ('' != 'true' and 'true' != 'true').
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') a été évaluée comme (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) a été évaluée comme (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true' and ('v4.0'=='v3.5' or 'v4.0'=='v3.0' or 'v4.0'=='v2.0' )).
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') a été évaluée comme (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true' and 'v142'=='v90').
+       Utilisation de la tâche "CheckVCToolsetVersion" à partir de l'assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Tâche "CheckVCToolsetVersion"
+       Exécution de la tâche "CheckVCToolsetVersion" terminée.
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') a été évaluée comme ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\mfcs140.lib) and '' == '').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') a été évaluée comme ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\mfcs140.lib) and '' != '').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') a été évaluée comme ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib) and '' == '').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') a été évaluée comme ('' == 'true' and !Exists(C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\atlmfc\lib\x86\atls.lib) and '' != '').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(_VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(_VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)')))) a été évaluée comme ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\spectre\onecore\x86')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\spectre\x86')))).
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true') a été évaluée comme (''!='true' and 'C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\'=='' and '' != 'true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') a été évaluée comme (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') a été évaluée comme (''!='true' and ''=='true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') a été évaluée comme (''!='true' and ''=='true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') a été évaluée comme ('' != '' and ''!='true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') a été évaluée comme ('' != 'true' and '' == 'true').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(Temp), true, null))' == 'true')) a été évaluée comme (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')).
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+     1>Génération de la cible "PrepareForBuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "_PrepareForReferenceResolution" ignorée. Elle a été générée.
+       Cible "ComputeCrtSDKReference" ignorée en raison d'une fausse condition ; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') a été évaluée comme ('glad_gl.c;Main.cpp'!='' and 'false'=='true' and '' != 'false').
+       Cible "GetInstalledSDKLocations" ignorée en raison d'une fausse condition ; ('@(SDKReference)' != '') a été évaluée comme ('' != '').
+     1>Cible "ResolveSDKReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveAssemblyReferences" en dépend) :
+       Tâche "ResolveSDKReference" ignorée en raison d'une fausse condition ; ('@(SDKReference)'!='') a été évaluée comme (''!='').
+     1>Génération de la cible "ResolveSDKReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "ResolveSDKReferences" ignorée. Elle a été générée.
+     1>Cible "ExpandSDKReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveAssemblyReferences" en dépend) :
+       Tâche "GetSDKReferenceFiles" ignorée en raison d'une fausse condition ; ('@(ResolvedSDKReference)'!='') a été évaluée comme (''!='').
+     1>Génération de la cible "ExpandSDKReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "ResolveNuGetPackageAssets" ignorée en raison d'une fausse condition ; ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) a été évaluée comme ('true' == 'true' and exists('obj\project.assets.json')).
+       Cible "ImplicitlyExpandNETStandardFacades" ignorée en raison d'une fausse condition ; ('$(ImplicitlyExpandNETStandardFacades)' == 'true') a été évaluée comme ('' == 'true').
+       Cible "_HandlePackageFileConflicts" ignorée en raison d'une fausse condition ; ('@(Reference)' != '' Or '@(ReferenceCopyLocalPaths)' != '') a été évaluée comme ('' != '' Or '' != '').
+       Cible "ImplicitlyExpandNETStandardFacades" ignorée en raison d'une fausse condition ; ('$(ImplicitlyExpandNETStandardFacades)' == 'true') a été évaluée comme ('' == 'true').
+     1>Cible "ResolveAssemblyReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveReferences" en dépend) :
+       Tâche "ResolveAssemblyReference" ignorée en raison d'une fausse condition ; ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') a été évaluée comme (''!='' or ''!='' or '' != '').
+     1>Génération de la cible "ResolveAssemblyReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "GenerateBindingRedirects" ignorée en raison d'une fausse condition ; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') a été évaluée comme ('' == 'true' and 'true' == 'true').
+       Cible "_RemoveZipFileSuggestedRedirect" ignorée en raison d'une fausse condition ; ('$(_TargetFrameworkVersionWithoutV)' >= '4.7.1' And '$(AllowZipFileRedirect)' != 'true') a été évaluée comme ('4.0' >= '4.7.1' And '' != 'true').
+       Cible "GenerateBindingRedirectsUpdateAppConfig" ignorée en raison d'une fausse condition ; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and Exists('$(_GenerateBindingRedirectsIntermediateAppConfig)')) a été évaluée comme ('' == 'true' and 'true' == 'true' and Exists('Debug\Fractal_OpenGL.exe.config')).
+       Cible "ResolveComReferences" ignorée en raison d'une fausse condition ; ('@(COMReference)'!='' or '@(COMFileReference)'!='') a été évaluée comme (''!='' or ''!='').
+     1>Cible "AfterResolveReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ResolveReferences" en dépend) :
+     1>Génération de la cible "AfterResolveReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "ImplicitlyExpandDesignTimeFacades" ignorée en raison d'une fausse condition ; ('$(ImplicitlyExpandDesignTimeFacades)' == 'true') a été évaluée comme ('' == 'true').
+       Cible "ResolveTestReferences" ignorée en raison d'une fausse condition ; ('@(Shadow)'!='') a été évaluée comme (''!='').
+     1>Cible "ResolveReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Build" en dépend) :
+     1>Génération de la cible "ResolveReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+     1>Cible "InitializeBuildStatus" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Build" en dépend) :
+       Tâche "ReadLinesFromFile"
+       Exécution de la tâche "ReadLinesFromFile" terminée.
+       Tâche "WriteLinesToFile"
+       Exécution de la tâche "WriteLinesToFile" terminée.
+       Utilisation de la tâche "Touch" à partir de l'assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tâche "Touch"
+         Mise à jour de l'horodatage "Debug\Fractal_OpenGL.tlog\unsuccessfulbuild".
+       Exécution de la tâche "Touch" terminée.
+     1>Génération de la cible "InitializeBuildStatus" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareProjectReferences" ignorée. Elle a été générée.
+     1>Cible "BuildGenerateSourcesTraverse" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "BuildGenerateSources" en dépend) :
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') a été évaluée comme ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+     1>Génération de la cible "BuildGenerateSourcesTraverse" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+       Cible "ResolveReferences" ignorée. Elle a été générée.
+     1>Cible "BeforeBuildGenerateSources" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+     1>Génération de la cible "BeforeBuildGenerateSources" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "PreBuildEvent" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+       Tâche "Message" ignorée en raison d'une fausse condition ; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') a été évaluée comme ('' != '' and '' != '').
+       Tâche "Exec" ignorée en raison d'une fausse condition ; ('%(PreBuildEvent.Command)' != '') a été évaluée comme ('' != '').
+     1>Génération de la cible "PreBuildEvent" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+       Cible "InitializeBuildStatus" ignorée. Elle a été générée.
+       Cible "SetBuildDefaultEnvironmentVariables" ignorée. Elle a été générée.
+       Cible "SetUserMacroEnvironmentVariables" ignorée en raison d'une fausse condition ; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') a été évaluée comme ('' != '' and '' != 'true').
+     1>Cible "_SelectedFiles" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "SelectCustomBuild" en dépend) :
+     1>Génération de la cible "_SelectedFiles" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "SelectCustomBuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CustomBuild" en dépend) :
+     1>Génération de la cible "SelectCustomBuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "ComputeCustomBuildOutput" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "CustomBuild" en dépend) :
+       Tâche "CreateItem" ignorée en raison d'une fausse condition ; ('%(CustomBuildOutputs.OutputItemType)'!='') a été évaluée comme (''!='').
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+     1>Génération de la cible "ComputeCustomBuildOutput" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "CustomBuild" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+       Utilisation de la tâche "GetOutOfDateItems" à partir de l'assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Tâche "GetOutOfDateItems"
+       Exécution de la tâche "GetOutOfDateItems" terminée.
+       Tâche "GetOutOfDateItems"
+       Exécution de la tâche "GetOutOfDateItems" terminée.
+       Tâche "ParallelCustomBuild" ignorée en raison d'une fausse condition ; ('@(_ParallelCustomBuild)' != '') a été évaluée comme ('' != '').
+       Tâche "CustomBuild" ignorée en raison d'une fausse condition ; ('@(_CustomBuild)' != '') a été évaluée comme ('' != '').
+     1>Génération de la cible "CustomBuild" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "FxExport" ignorée en raison d'une fausse condition ; ('@(FxCompile)' != '') a été évaluée comme ('' != '').
+       Cible "FxCompile" ignorée en raison d'une fausse condition ; ('@(FxCompile)' != '') a été évaluée comme ('' != '').
+       Cible "_CreateCopyFileItems" ignorée en raison d'une fausse condition ; ('@(CopyFileToFolders)' != '') a été évaluée comme ('' != '').
+       Cible "_SelectedFiles" ignorée. Elle a été générée.
+     1>Cible "CopyFileToFolders" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+       Tâche "GetOutOfDateItems"
+       Exécution de la tâche "GetOutOfDateItems" terminée.
+       Tâche "Copy" ignorée en raison d'une fausse condition ; ('@(_OutOfDateCopyFile)' != '') a été évaluée comme ('' != '').
+     1>Génération de la cible "CopyFileToFolders" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "Xsd" ignorée en raison d'une fausse condition ; ('@(Xsd)' != '') a été évaluée comme ('' != '').
+     1>Cible "_Xsd" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+     1>Génération de la cible "_Xsd" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "MakeDirsForMidl" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_Midl" en dépend) :
+       Tâche "Makedir"
+       Exécution de la tâche "Makedir" terminée.
+     1>Génération de la cible "MakeDirsForMidl" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "Midl" ignorée en raison d'une fausse condition ; ('@(Midl)' != '') a été évaluée comme ('' != '').
+       Cible "FxExport" ignorée en raison d'une fausse condition ; ('@(FxCompile)' != '') a été évaluée comme ('' != '').
+       Cible "FxCompile" ignorée en raison d'une fausse condition ; ('@(FxCompile)' != '') a été évaluée comme ('' != '').
+     1>Cible "ComputeMIDLGeneratedCompileInputs" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_Midl" en dépend) :
+     1>Génération de la cible "ComputeMIDLGeneratedCompileInputs" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AfterMidl" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_Midl" en dépend) :
+     1>Génération de la cible "AfterMidl" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_Midl" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+     1>Génération de la cible "_Midl" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AfterBuildGenerateSources" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.BuildSteps.Targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+     1>Génération de la cible "AfterBuildGenerateSources" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "AfterBuildGenerateSourcesEvent" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_BuildGenerateSourcesAction" en dépend) :
+     1>Génération de la cible "AfterBuildGenerateSourcesEvent" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "_BuildGenerateSourcesAction" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "BuildGenerateSources" en dépend) :
+     1>Génération de la cible "_BuildGenerateSourcesAction" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "BuildGenerateSources" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "Build" en dépend) :
+     1>Génération de la cible "BuildGenerateSources" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareProjectReferences" ignorée. Elle a été générée.
+     1>Cible "BuildCompileTraverse" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "BuildCompile" en dépend) :
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') a été évaluée comme ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Génération de la cible "BuildCompileTraverse" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+       Cible "ResolveReferences" ignorée. Elle a été générée.
+     1>Cible "BeforeClCompile" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+     1>Génération de la cible "BeforeClCompile" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "GenerateTargetFrameworkMonikerAttribute" ignorée en raison d'une fausse condition ; ('$(GenerateTargetFrameworkAttribute)' == 'true') a été évaluée comme ('false' == 'true').
+       Cible "ComputeMIDLGeneratedCompileInputs" ignorée. Elle a été générée.
+     1>Cible "ComputeCLInputPDBName" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+     1>Génération de la cible "ComputeCLInputPDBName" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "ResolveReferences" ignorée. Elle a été générée.
+     1>Cible "FindReferenceAssembliesForReferences" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ComputeReferenceCLInput" en dépend) :
+     1>Génération de la cible "FindReferenceAssembliesForReferences" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "PrepareForBuild" ignorée. Elle a été générée.
+       Cible "ResolveReferences" ignorée. Elle a été générée.
+     1>Cible "GetReferencedVCProjectsInfo" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ComputeReferenceCLInput" en dépend) :
+       Tâche "MSBuild" ignorée en raison d'une fausse condition ; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '') a été évaluée comme ('' == '.vcxproj' and '' != '' and '' != '').
+     1>Génération de la cible "GetReferencedVCProjectsInfo" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "ComputeReferenceCLInput" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+       Tâche "WriteLinesToFile" ignorée en raison d'une fausse condition ; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') a été évaluée comme (''!='' and '' != 'true' and 'true' == 'true').
+       Tâche "WriteLinesToFile" ignorée en raison d'une fausse condition ; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') a été évaluée comme (''!='' and '' != 'true' and 'true' == 'true').
+       Tâche "Message" ignorée en raison d'une fausse condition ; ('$(_REFERENCE_DEBUG)'=='true') a été évaluée comme (''=='true').
+     1>Génération de la cible "ComputeReferenceCLInput" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "WarnCompileDuplicatedFilename" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') a été évaluée comme ('' != 'true' and 'glad_gl.c' != 'glad_gl.c' and 'Debug\' == 'Debug\').
+       Tâche "VCMessage" ignorée en raison d'une fausse condition ; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') a été évaluée comme ('' != 'true' and 'Main.cpp' != 'Main.cpp' and 'Debug\' == 'Debug\').
+     1>Génération de la cible "WarnCompileDuplicatedFilename" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "FixupCLCompileOptions" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+     1>Génération de la cible "FixupCLCompileOptions" terminée dans le projet "Fractal_OpenGL.vcxproj".
+     1>Cible "MakeDirsForCl" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+       Tâche "MakeDir"
+       Exécution de la tâche "MakeDir" terminée.
+     1>Génération de la cible "MakeDirsForCl" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "_SelectedFiles" ignorée. Elle a été générée.
+       Cible "GenerateTargetFrameworkMonikerAttribute" ignorée en raison d'une fausse condition ; ('$(GenerateTargetFrameworkAttribute)' == 'true') a été évaluée comme ('false' == 'true').
+       Cible "ComputeMIDLGeneratedCompileInputs" ignorée. Elle a été générée.
+       Cible "ComputeCLInputPDBName" ignorée. Elle a été générée.
+       Cible "ComputeReferenceCLInput" ignorée. Elle a été générée.
+       Cible "WarnCompileDuplicatedFilename" ignorée. Elle a été générée.
+       Cible "FixupCLCompileOptions" ignorée. Elle a été générée.
+       Cible "SelectCustomBuild" ignorée. Elle a été générée.
+       Cible "SetModuleDependencies" ignorée en raison d'une fausse condition ; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') a été évaluée comme ('' != 'true' and '' == 'true').
+     1>Cible "SelectClCompile" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "ClCompile" en dépend) :
+     1>Génération de la cible "SelectClCompile" terminée dans le projet "Fractal_OpenGL.vcxproj".
+       Cible "SelectAnalysisManifest" ignorée en raison d'une fausse condition ; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') a été évaluée comme ('false'=='true' and ''!='').
+       Cible "ManagedIncrementalBuildPreProcessDependencyGraph" ignorée en raison d'une fausse condition ; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') a été évaluée comme ('glad_gl.c;Main.cpp' != '' and 'false' == 'True').
+     1>Cible "ClCompile" dans le fichier "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets" du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (la cible "_ClCompile" en dépend) :
+       Tâche "Delete"
+       Exécution de la tâche "Delete" terminée.
+       Tâche "MultiToolTask" ignorée en raison d'une fausse condition ; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == 'Modules') a été évaluée comme ('' != 'true' and '' == 'Modules').
+       Tâche "MultiToolTask" ignorée en raison d'une fausse condition ; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true') a été évaluée comme ('' != 'true' and '' == '' and 'false' == 'true').
+       Tâche "CL" ignorée en raison d'une fausse condition ; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') a été évaluée comme ('NotUsing' == 'Create' and ''!='true' and '' == '' and 'false' != 'true').
+       Tâche "CL" ignorée en raison d'une fausse condition ; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.ExcludedFromBuild)'!='true' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') a été évaluée comme ('NotUsing' == 'Create' and ''!='true' and '' == '' and 'false' != 'true').
+       Utilisation de la tâche "CL" à partir de l'assembly "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.Build.CppTasks.Common.dll".
+       Tâche "CL"
+         Recompilation forcée de tous les fichiers sources en raison d'un fichier PDB "Debug\vc142.pdb" manquant.
+         Variables d'environnement passées à l'outil :
+           VS_UNICODE_OUTPUT=2072
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TC /analyze- /FC /errorReport:prompt glad_gl.c
+         Commande de suivi :
+         C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i E:\OpenGL\Fractal_OpenGL\Debug\Fractal_OpenGL.tlog /r E:\OPENGL\FRACTAL_OPENGL\GLAD_GL.C /b MSBuildConsole_CancelEvente2584cda3e494b7595a24874b9ccecad  /c "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\bin\HostX86\x86\CL.exe"  /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /permissive- /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc142.pdb" /external:W3 /Gd /TC /analyze- /FC /errorReport:prompt glad_gl.c
+         glad_gl.c
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,16): error C2061: erreur de syntaxe : identificateur 'glad_glAccum'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,16): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,29): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,20): error C2061: erreur de syntaxe : identificateur 'glad_glAlphaFunc'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,30): error C2061: erreur de syntaxe : identificateur 'glad_glAreTexturesResident'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,30): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,57): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,23): error C2061: erreur de syntaxe : identificateur 'glad_glArrayElement'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,23): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,43): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,16): error C2061: erreur de syntaxe : identificateur 'glad_glBegin'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,16): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,29): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,17): error C2061: erreur de syntaxe : identificateur 'glad_glBitmap'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,17): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,31): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,19): error C2061: erreur de syntaxe : identificateur 'glad_glCallList'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,20): error C2061: erreur de syntaxe : identificateur 'glad_glCallLists'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,21): error C2061: erreur de syntaxe : identificateur 'glad_glClearAccum'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,21): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,39): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,21): error C2061: erreur de syntaxe : identificateur 'glad_glClearIndex'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,21): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,39): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,30): error C2061: erreur de syntaxe : identificateur 'glad_glClientActiveTexture'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,30): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,57): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,20): error C2061: erreur de syntaxe : identificateur 'glad_glClipPlane'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3b'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3bv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3d'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3dv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3f'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3fv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3i'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3iv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3s'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3sv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ub'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ubv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ui'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3uiv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3us'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3usv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,20): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,37): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4b'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4bv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4d'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4dv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,35): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4f'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,18): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,33): error C2513: ' ' : aucune variable déclarée avant '='
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4fv'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): error C2059: erreur de syntaxe : ';'
+     1>E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): fatal error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+         La commande s'est arrêtée avec le code 2.
+       Exécution de la tâche "CL" terminée -- ÉCHEC.
+     1>Génération de la cible "ClCompile" terminée dans le projet "Fractal_OpenGL.vcxproj" -- ÉCHEC.
+     1>Génération du projet "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" terminée (Rebuild cible(s)) -- ÉCHEC.
+
+ÉCHEC de la build.
+
+       "E:\OpenGL\Fractal_OpenGL\Fractal_OpenGL.vcxproj" (Rebuild cible) (1) ->
+       (ClCompile cible) -> 
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,16): error C2061: erreur de syntaxe : identificateur 'glad_glAccum'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,16): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(36,29): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,20): error C2061: erreur de syntaxe : identificateur 'glad_glAlphaFunc'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(38,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,30): error C2061: erreur de syntaxe : identificateur 'glad_glAreTexturesResident'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,30): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(39,57): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,23): error C2061: erreur de syntaxe : identificateur 'glad_glArrayElement'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,23): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(40,43): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,16): error C2061: erreur de syntaxe : identificateur 'glad_glBegin'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,16): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(42,29): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,17): error C2061: erreur de syntaxe : identificateur 'glad_glBitmap'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,17): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(57,31): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,19): error C2061: erreur de syntaxe : identificateur 'glad_glCallList'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(66,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,20): error C2061: erreur de syntaxe : identificateur 'glad_glCallLists'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(67,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,21): error C2061: erreur de syntaxe : identificateur 'glad_glClearAccum'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,21): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(71,39): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,21): error C2061: erreur de syntaxe : identificateur 'glad_glClearIndex'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,21): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(78,39): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,30): error C2061: erreur de syntaxe : identificateur 'glad_glClientActiveTexture'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,30): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(80,57): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,20): error C2061: erreur de syntaxe : identificateur 'glad_glClipPlane'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(82,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3b'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(83,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3bv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(84,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3d'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(85,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3dv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(86,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3f'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(87,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3fv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(88,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3i'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(89,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3iv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(90,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor3s'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(91,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3sv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(92,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ub'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(93,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ubv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(94,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3ui'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(95,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3uiv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(96,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor3us'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(97,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,20): error C2061: erreur de syntaxe : identificateur 'glad_glColor3usv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,20): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(98,37): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4b'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(99,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4bv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(100,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4d'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(101,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4dv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(102,35): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,18): error C2061: erreur de syntaxe : identificateur 'glad_glColor4f'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,18): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(103,33): error C2513: ' ' : aucune variable déclarée avant '='
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): error C2061: erreur de syntaxe : identificateur 'glad_glColor4fv'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): error C2059: erreur de syntaxe : ';'
+         E:\OpenGL\Fractal_OpenGL\glad_gl.c(104,19): fatal error C1003: le nombre d'erreurs est supérieur à 100 ; arrêt de la compilation
+
+    0 Avertissement(s)
+    102 Erreur(s)
+
+Temps écoulé 00:00:00.44
