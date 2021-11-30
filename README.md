@@ -1,7 +1,7 @@
 # Fractal_OpenGL
 Cours M1 Fractal_OpenGL
 
-## Table of Contents
+## Table des matières
 1. [Informations générales](#general-info)
 2. [Technologies](#technologies)
 3. [Installation](#installation)
@@ -11,10 +11,10 @@ Cours M1 Fractal_OpenGL
 Fractal_OpenGL est un projet réalisé en DU UHA 4.0.4
 Dans ce projet, on peut réaliser des fractales en partant d'une droite ou d'un polygone
 ### Screenshot
-![Droite](https://github.com/Guiguess68210/Fractal_OpenGL/Images/droite.png)
-![Triangle](https://github.com/Guiguess68210/Fractal_OpenGL/Images/triangle.png)
-![Rectangle](https://github.com/Guiguess68210/Fractal_OpenGL/Images/rectangle.png)
-![Polygone](https://github.com/Guiguess68210/Fractal_OpenGL/Images/polygone_quelconque.png)
+![Droite](https://github.com/Guiguess68210/Fractal_OpenGL/blob/main/Images/droite.png)
+![Triangle](https://github.com/Guiguess68210/Fractal_OpenGL/blob/main/Images/triangle.png)
+![Rectangle](https://github.com/Guiguess68210/Fractal_OpenGL/blob/main/Images/rectangle.png)
+![Polygone](https://github.com/Guiguess68210/Fractal_OpenGL/blob/main/Images/polygone_quelconque.png)
 ## Technologies
 ***
 Liste des technologies utilisées:
