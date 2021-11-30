@@ -1,1 +1,2 @@
 E:\OpenGL\Fractal_OpenGL\x64\Debug\Fractal_OpenGL.exe
+E:\OpenGL\GitHub_Fractal_OpenGL\Fractal_OpenGL\x64\Debug\Fractal_OpenGL.exe

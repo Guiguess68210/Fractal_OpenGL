@@ -8,10 +8,10 @@
 #include <iostream>
 #include <cmath>
 #include <polygone.h>
-#include <segment.h>
 #include <vector>
 #include <algorithm>
 #include <enveloppe.h>
+#include <segment.h>
 
 // Paramètres du vertex shader → attributs de sommets (position, couleur, coordonnées de texture)
 const char* vertexShaderSource = "#version 330 core\n"
